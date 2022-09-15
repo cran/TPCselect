@@ -1,0 +1,14 @@
+8725990f1388d5e023b95a76ca7cefc7 *DESCRIPTION
+63d1ee27fe527e7a3e1cf22c4439c5f8 *NAMESPACE
+128c4d6bb58de0464f7d7552172ac434 *R/TPC.R
+9fbdc2de58bbd8f3517da582ce25d550 *R/TPC_BIC.R
+fe6cf2d5cd23153eea74300d9dcc2242 *R/TPC_pl.R
+28016a93f55744b76e874ae3e48f5cd8 *R/TPC_pl_BIC.R
+853f2c15778cf3cb855558d7daa528fa *R/utils.R
+4e24cd555da900be5cb895a6f5735c4e *man/TPC.Rd
+848aa81faf10a1bab02baa40092a6bce *man/TPC_BIC.Rd
+96b5f40f9630e6bf507fa7858d5451f7 *man/TPC_pl.Rd
+3ab07b1f5057d9bfa5e1f1402ef62812 *man/TPC_pl_BIC.Rd
+9debed2021440bfbfbac5cee1493ff97 *man/generate_toy_pldata.Rd
+24d0beb7362e4f1ca9e81cda696f1418 *tests/testthat.R
+4d3c51781806ab73908b18c52eb0501b *tests/testthat/test-TPC.R
