@@ -117,12 +117,6 @@ polynomial <- function(tpoint, degree, y, ttimes, kernel,h){
 
 #' A function to generate toy partial linear model data
 #'
-#' @return a list that contains:
-#' \itemize{
-#'   \item ysample - the response variable
-#'   \item x_cov - the linear predictors
-#'   \item times - the non-linear term
-#' }
 #' @export
 generate_toy_pldata <- function(){
   p = 30

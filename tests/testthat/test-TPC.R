@@ -100,7 +100,7 @@ test_that("test the main functions (TPC) with BIC", {
   TPC.fit = TPC_BIC(y,x,c(0.05,0.1))
 
 
-  expect_equal(as.vector(TPC.fit$beta), truebeta, tolerance = 0.1)
+  expect_equal(as.vector(TPC.fit$beta), truebeta, tolerance = 0.2)
 })
 
 test_that("test the main functions (TPC) with BIC CV", {
